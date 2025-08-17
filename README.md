@@ -1,6 +1,6 @@
-e# Cyber Pulse - Combat-Ready Cyberware Optimization System
+# Cyber Pulse - Combat-Ready Cyberware Optimization System
 
-![Cyberpunk Cityscape](https://example.com/cyberpulse-banner.jpg)  
+![Cyberpunk Cityscape](https://www.google.com/imgres?q=Welcome%20to%20the%20mean%20streets%20of%20Night%20City&imgurl=https%3A%2F%2Fexternal-preview.redd.it%2Fcyberpunk-2077s-sequel-will-return-to-night-city-as-well-as-v0-EHDXfxdZV1t23mYyBD30L8NR2_KwulmQr9i13NVHSPA.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D336ee13b8dc7c8078da18c0f3ded74682a16c3e0&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2Fcyberpunkgame%2Fcomments%2F1kt3czw%2Fcyberpunk_2077s_sequel_will_return_to_night_city%2F&docid=s0tHqCQWbEO9tM&tbnid=d5PofqIFSx539M&vet=12ahUKEwjStL_SmpKPAxV1TWwGHfwNMLIQM3oECB4QAA..i&w=1080&h=607&hcb=2&ved=2ahUKEwjStL_SmpKPAxV1TWwGHfwNMLIQM3oECB4QAA)  
 *Welcome to the mean streets of Night City*
 
 ## Overview
